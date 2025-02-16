@@ -38,5 +38,5 @@ To address this challenge, we utilize Singa to develop a machine learning model 
 
 ## Command
 ```bash
-python train_cnn.py cnn cardiovascular
+python train_cnn.py ml[ cardiovascular
 ```
